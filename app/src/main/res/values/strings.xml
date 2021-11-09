@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bmi example</string>
+    <string-array name="cartype">
+        <item>hundye</item>
+        <item>sedan</item>
+        <item>hatch-bag</item>
+    </string-array>
+</resources>
